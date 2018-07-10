@@ -1,2 +1,4 @@
 print Hello World
 print.document "Hello World"
+var test = My Cabbages
+print "test"
