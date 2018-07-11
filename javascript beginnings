@@ -2,5 +2,9 @@ Simple Beginner Notes and Practice
 
 print Hello World
 print.document "Hello World"
+
+Variables
+
 var test = My Cabbages
-print "test"
+
+print 'test'
