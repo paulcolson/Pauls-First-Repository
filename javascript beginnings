@@ -3,8 +3,9 @@ Simple Beginner Notes and Practice
 print Hello World
 print.document "Hello World"
 
-Variables
+Variables - hold data values
 
-var test = My Cabbages
+var test = My Cabbages!
 
 print 'test'
+will print message "My Cabbages!
