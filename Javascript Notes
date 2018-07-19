@@ -11,3 +11,5 @@ print 'test'
 will print message "My Cabbages!
 
 No spaces or reserved characters in names of variable. Must start with letter, "_", or "$".
+
+Data Types - 
