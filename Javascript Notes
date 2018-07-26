@@ -15,3 +15,7 @@ No spaces or reserved characters in names of variable. Must start with letter, "
 Data Types - types of data variables can hold.
 
   Numbers, strings(stores/manipulates text), arrays, and more. 
+
+Equality Operators
+-Determine equality of difference between variables or data types.
+-Return true or false. 
