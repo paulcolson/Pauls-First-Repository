@@ -1,1 +1,13 @@
 This is a space for notes on HTML.
+
+<!doctype html>
+<html>
+<head>
+<title>title goes here</title>
+</head>
+
+<body>
+content goes here
+</body>
+
+</html>
