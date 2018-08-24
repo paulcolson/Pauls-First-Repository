@@ -12,3 +12,6 @@ content goes here
 </body>
 
 </html>
+
+User Location:
+navigator.geolocation.getCurrentPosition();
