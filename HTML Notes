@@ -17,3 +17,5 @@ User Location:
 navigator.geolocation.getCurrentPosition();
 
 SVG - Scalable Vector Graphics
+
+Format: <svg width="999" height="999"></svg>
