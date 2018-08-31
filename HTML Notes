@@ -15,3 +15,5 @@ content goes here
 
 User Location:
 navigator.geolocation.getCurrentPosition();
+
+SVG - Scalable Vector Graphics
